@@ -19,6 +19,11 @@ body{
     border: 0.5em double #000
 }
 
+#purple {
+    background-color: purple;
+    border: 6px dotted #000;
+}
+
 .box{
     width: 20%;
     text-align: center;
